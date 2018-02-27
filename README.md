@@ -1,2 +1,3 @@
 # js-dev-env-2
-Node JS Development Environment
+InstaCode's Node JS Development Environment
+Build - > Test - > Deploy - > Repeat
