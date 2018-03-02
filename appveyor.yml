@@ -11,8 +11,8 @@ install:
   # Install Modules
   - npm install
 
-  # Post-install test scripts
-  test_script:
+# Post-install test scripts
+test_script:
     # Output useful info for debugging.
     - node --version
     - npm --version
