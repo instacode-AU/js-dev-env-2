@@ -19,7 +19,7 @@ export default {
     new webpack.optimize.DedupePlugin(),
    
     //Minify JS
-    new webpackConfigDev.optimize.UglifyJsPlugin()
+    new webpack.optimize.UglifyJsPlugin()
   ],
   module: {
     loaders: [
